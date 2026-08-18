@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Gulam Sabir 👋
 
-<!--
-**Sabir1955/Sabir1955** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Backend Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate interested in building backend applications and learning modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- Java
+- Spring Boot
+- Hibernate / JPA
+- MySQL
+- SQL
+- REST APIs
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+## 🚀 Projects
+
+### CRUD Operation
+A CRUD web application built using C#, ASP.NET Core MVC, HTML, CSS, JavaScript and Microsoft SQL Server.
+
+### Library Management System
+A Java-based application using JDBC and MySQL for managing books, issue/return operations and fine calculation.
+
+## 📚 Currently Learning
+
+- Spring Boot
+- REST API
+- Microservices
+- Docker
+- Advanced SQL
+
+## 🎯 Goal
+
+To become a strong Backend Developer and build real-world applications.
+
+---
+
+⭐ Thanks for visiting my profile!
