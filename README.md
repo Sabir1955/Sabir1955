@@ -14,7 +14,6 @@ I'm a Computer Science graduate interested in building backend applications and 
 - REST APIs
 - HTML
 - CSS
-- JavaScript
 - Git & GitHub
 
 ## 🚀 Projects
