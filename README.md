@@ -57,7 +57,6 @@
 * C#
 * .NET
 * ASP.NET
-* ASP.NET Core
 * ASP.NET Core MVC
 * Entity Framework Core
 * REST API
