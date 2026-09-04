@@ -22,7 +22,6 @@
 🔷 C# / .NET Developer
 🚀 Interested in Backend Development
 🌐 Interested in REST API Development
-🗄️ Interested in Database Development
 📚 Continuously learning and building projects
 
 ---
