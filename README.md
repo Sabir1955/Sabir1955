@@ -23,8 +23,6 @@
 🚀 Interested in Backend Development
 🌐 Interested in REST API Development
 📚 Continuously learning and building projects
-    am learning new technology
-    
 
 ---
 
