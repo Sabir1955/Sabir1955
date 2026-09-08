@@ -34,8 +34,7 @@
 * 🔷 C#
 * 🌐 HTML
 * 🎨 CSS
-* ⚡ JavaScript
-
+* 
 ### ☕ Java Technologies
 
 * Core Java
