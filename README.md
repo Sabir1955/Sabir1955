@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gulam Sabir
+# 👋 Hi, I'm Gulam Sabir.
 
 ### 💻 Backend Developer | Java | Spring Boot | C# | ASP.NET Core
 
