@@ -61,6 +61,7 @@
 * JWT
 * BCrypt
 * Swagger / OpenAPI
+* API
 
 ### 🗄️ Database
 
